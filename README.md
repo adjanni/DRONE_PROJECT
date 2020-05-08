@@ -8,7 +8,7 @@
  I will try to follow the Agile software development steps that I find result-oriented.
  
  ## UML diagrams
- ### UML use case diagram
+ ### UML user case diagram
  In this part, I identify on the set of actions that the drone must and should perform in collaboration with one or many external users.
  
  The drone `must do' ...
@@ -21,4 +21,4 @@
  - start upon request
  - low power
  
- [x] User story
+ 
