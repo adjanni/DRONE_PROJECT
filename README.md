@@ -1,10 +1,10 @@
 # DRONE_PROJECT
  
  The project aims at simulating the physical ability of a drone:
- (1-) To start when triggers by a or the user(s)
- (2-) To take off
- (3-) To move in two planes
- (4-) To land
+ (1-) to start when triggers by a or the user(s)
+ (2-) to take off
+ (3-) to move in two planes
+ (4-) to land
  I will try to follow the Agile software development steps that I find result-oriented.
  
  ## UML diagrams
@@ -13,9 +13,12 @@
  
  The drone `must do' ...
  - have a user interface
+ - communicate (at a long or short range) with the user
  - must be able to fly
- - must be able to change direction
- - maintain its database
+ - Navigate in two dimensions. In the future, it must be able to perform a target pursuit or a route control
+ - Future functionalities: collision avoidance, image analysis, and live streaming videos
+
+ 
  
  The drone `should do' ...
  - start upon request
