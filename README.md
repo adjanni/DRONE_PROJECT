@@ -15,7 +15,9 @@
  - have a user interface
  - communicate (at a long or short range) with the user
  - must be able to fly
+ - must be able to land
  - Navigate in two dimensions. In the future, it must be able to perform a target pursuit or a route control
+ - to control its movement
  - Future functionalities: collision avoidance, image analysis, and live streaming videos
 
  
@@ -23,5 +25,6 @@
  The drone `should do' ...
  - start upon request
  - low power
+ - light
  
  
